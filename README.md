@@ -1,2 +1,2 @@
-# UniversityPythonProjects
-This GitHub repository stores all of my university python projects from University of Maryland Global Campus and Howard Community College courses. The courses are SDEV 300 (Building Secure Python Web Applications), and CMSY 156 (Intro to Python). The projects for the SDEV 300 class can be found in the SDEV 300 branch, and the projects for the CMSY 156 class can be found in the CMSY 156 branch. 
+# Python Projects
+This GitHub repository stores all of my python projects from the past courses I've taken from university, online coursework, and recreational projects.
